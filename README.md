@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Notes-App](https://github.com/indubrolk/Notes-App)
 
-- 🌱 I’m currently learning **JAVA,C++,MERN Stack,React,MySQL**
+- 🌱 I’m currently learning **JAVA,C++,MERN Stack,React,MySQL,Python**
 
 - 👨‍💻 All of my projects are available at [https://indubrolk.github.io/indu-brolk-s-web/index.html](https://indubrolk.github.io/indu-brolk-s-web/index.html)
 
