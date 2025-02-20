@@ -7,7 +7,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on [Notes-App](https://github.com/indubrolk/Notes-App)
+- 🔭 I’m currently working on [Notes-App](https://github.com/indubrolk/Notes-App),[Nextjs-Portfolio](https://github.com/indubrolk/Nextjs-Portfolio)
 
 - 🌱 I’m currently learning **JAVA,C++,MERN Stack,React,MySQL,Python**
 
