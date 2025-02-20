@@ -35,4 +35,13 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indubrolk&theme=tokyonight&layout=compact)](https://github.com/indubrolk) | [![Github Stars](https://github-readme-stats.vercel.app/api?username=indubrolk&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)](https://github.com/indubrolk)
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=indubrolk&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indubrolk&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+
