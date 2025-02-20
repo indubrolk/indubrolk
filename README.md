@@ -32,3 +32,5 @@
 <br/>
 <br/>
 <p><center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indubrolk&" alt="indubrolk" /></center></p>
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indubrolk&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=indubrolk&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
