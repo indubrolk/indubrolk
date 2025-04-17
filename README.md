@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Induwara Jayakody</h1>
 <h3 align="center">Undergraduate at FOC SUSL</h3>
 
+---
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=indubrolk&label=Profile%20views&color=0e75b6&style=flat" alt="indubrolk" /> </p>
 
 <p align="center"> <a href="https://twitter.com/broindu" target="blank"><img src="https://img.shields.io/twitter/follow/broindu?logo=twitter&style=for-the-badge" alt="broindu" /></a> </p>
@@ -22,8 +24,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/broindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="broindu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/indu-jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indu-jay" height="30" width="40" /></a>
-<a href="https://instagram.com/indu_brolk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indu_brolk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/indu-jay" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="indu-jay" height="30" width="40" /></a>
+<a href="https://instagram.com/indu_brolk" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="indu_brolk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/indubrolk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="indubrolk" height="30" width="40" /></a>
 </p>
 <br/>
