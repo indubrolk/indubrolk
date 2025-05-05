@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Notes-App](https://github.com/indubrolk/Notes-App), [Nextjs-Portfolio](https://github.com/indubrolk/Nextjs-Portfolio)
 
-- 🌱 I’m currently learning **JAVA,C++,MERN Stack,Nextjs,MySQL,Python**
+- 🌱 I’m currently learning **JAVA,C++,MERN Stack,Nextjs,MySQL,Python,Laravel**
 
 - 👨‍💻 All of my projects are available at [indubrolk.live](https://indubrolk.live)
 
