@@ -76,21 +76,8 @@
 
 
 
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=indubrolk&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indubrolk&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
 
-<h3 align="left">Achievements:</h3>
-
-## Holopin Badges
-
-[![@indubrolk's Holopin board](https://holopin.io/api/user/board?user=@indubrolk#)](https://holopin.io/@indubrolk#)
-
-<br><br><br>
 
