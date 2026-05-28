@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [indubrolk.live](https://indubrolk.live)
 
-- 📝 I regularly write articles on [indubrolk.live](https://indubrolk.live)
+- 📝 I regularly write articles on [indubrolk.tech]((https://www.indubrolk.tech/)
 
 - 📫 How to reach me **indubro.lk@gmail.com**
 
