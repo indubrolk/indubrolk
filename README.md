@@ -70,19 +70,23 @@
   </a>
 </p>
 
+---
+
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indubrolk&show_icons=true&locale=en&layout=compact" alt="indubrolk" /></p>
 
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indubrolk&show_icons=true&locale=en" alt="indubrolk" /></p>
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=indubrolk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indubrolk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" height="165" alt="Top Languages" />
 
-<center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indubrolk&" alt="indubrolk" /></p></center><br/>
+<br/><br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=indubrolk&theme=tokyonight&hide_border=true&background=0d1117&stroke=00e5ff&ring=00e5ff&fire=ff6b6b&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 
-
-
-<br>
+</div>
 
 
 
